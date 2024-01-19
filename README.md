@@ -1,7 +1,7 @@
 # 🔥.sh
 
 ```
-mv $( ls -1 | grep -P "[\x{1f525}]" ) /tmp
-cd /tmp
-sh $( ls -1 | grep -P "[\x{1f525}]" )
+./🔥.sh
+./$(printf '\xf0\x9f\x94\xa5.sh')
+sh $( ls | grep -P "[\x{1f525}]" )
 ```
