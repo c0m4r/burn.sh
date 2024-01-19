@@ -7,7 +7,7 @@
 ## 🔥 + 🐋
 
 ```
-docker run -it --rm --name burn c0m4r/burn.sh
+docker run -it --rm --name burn c0m4r/burn.sh ; echo 🔥🔥🔥
 ```
 
 ## 🔥
