@@ -1,8 +1,7 @@
 # 🔥.sh
 
-[![linux](https://img.shields.io/badge/Linux-sh-%23777BB4?logo=linux&logoColor=ffffff)](#🔥)
+[![linux](https://img.shields.io/badge/Linux-🔥-%23777BB4?logo=linux&logoColor=ffffff)](#🔥)
 [![License: 🔥](https://img.shields.io/badge/License-🔥-red.svg)](#🔥)
-[![CodeFactor](https://www.codefactor.io/repository/github/c0m4r/burn.sh/badge)](https://www.codefactor.io/repository/github/c0m4r/burn.sh)
 
 ## 🔥 + 🐋
 
