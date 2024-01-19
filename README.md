@@ -1,6 +1,7 @@
 # 🔥.sh
 
-[![linux](https://img.shields.io/badge/Linux-🔥-%23777BB4?logo=linux&logoColor=ffffff)](#🔥)
+[![docker](https://img.shields.io/badge/Docker-🔥-yellow?logo=docker&logoColor=ffffff)](https://hub.docker.com/r/c0m4r/burn.sh)
+[![linux](https://img.shields.io/badge/Linux-🔥-orange?logo=linux&logoColor=ffffff)](#🔥)
 [![License: 🔥](https://img.shields.io/badge/License-🔥-red.svg)](#🔥)
 
 ## 🔥 + 🐋
