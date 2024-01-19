@@ -37,3 +37,10 @@ sh $(echo -e "\xf0\x9f\x94\xa5.sh") $(echo -e "\xf0\x9f\x94\xa5")
 00000030: 4706 bb94 e799 06e7 7001 0021 a11e 2231  G.......p..!.."1
 00000040: 0000 00                                  ...
 ```
+
+---
+
+<details>
+<summary>🔥</summary>
+<p>Just to clarify: this script is harmless (on its own), as long as you don't run what it prints as a command.</p>
+</details>
