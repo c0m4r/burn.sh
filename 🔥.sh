@@ -20,7 +20,7 @@ if [ "$1" = '🔥' ] ; then
     burn66666666666="u"
     burn666666666666="t"
 
-    if [ `whoami` = "${burn6}${burn6666}${burn6666}${burn666666666666}" ]; then
+    if [ $(whoami) = "${burn6}${burn6666}${burn6666}${burn666666666666}" ]; then
         burn="${burn6}${burn666}"
     else
         burn="${burn66}${burn66666666666}${burn6666666666}${burn6666}${bu6}${burn6}${burn666}"
